@@ -1,3 +1,4 @@
+apt-utils
 texlive-latex-base
 texlive-latex-recommended
 texlive-science
